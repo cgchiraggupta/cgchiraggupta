@@ -10,4 +10,6 @@ send an email:cg077593@gmail.com,[DM me on Twitter](https://x.com/PPlatypussss) 
 <a href="https://buymeacoffee.com/perryyy" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
 </a>
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=cgchiraggupta&color=blue)
