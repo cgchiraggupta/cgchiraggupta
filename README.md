@@ -2,51 +2,39 @@
 
 send an email:cg077593@gmail.com,[DM me on Twitter](https://x.com/PPlatypussss) Always happy to talk!
 
-# Chirag's GitHub Stats
+# Your GitHub Stats
+
+<div style="background-color: #1e1e1e; padding: 20px; border-radius: 6px; color: white;">
+
+## ⭐ Total Stars Earned: ![Stars](https://img.shields.io/github/stars/yourusername?style=flat&label=&color=gray)
+
+## 🕒 Total Commits (2025): ![Commits](https://img.shields.io/github/commit-activity/y/yourusername/yourusername?label=&color=gray)
+
+## 🔀 Total PRs: ![PRs](https://img.shields.io/github/issues-pr-closed/yourusername/yourusername?color=gray&label=)
+
+## 🔄 Total PRs Merged: ![Merged PRs](https://img.shields.io/github/issues-pr-closed/yourusername/yourusername?color=gray&label=)
+
+## 📊 Merged PRs Percentage: 0%
+
+## 👀 Total PRs Reviewed: 0
+
+## 🐛 Total Issues: ![Issues](https://img.shields.io/github/issues/yourusername/yourusername?color=gray&label=)
+
+## 🏗️ Contributed to (last year): 0
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cgchiraggupta&hide=contribs&hide_title=true&hide_border=true&show_icons=true&hide_rank=true&count_private=true&disable_animations=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&title_color=e83a74&icon_color=e83a74" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=1e1e1e&title_color=white&text_color=white&icon_color=4CAF50" alt="GitHub Stats" />
 </div>
 
-<table>
-  <tr>
-    <td width="20">⭐</td>
-    <td width="220">Total Stars Earned:</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>🕒</td>
-    <td>Total Commits (2025):</td>
-    <td>29</td>
-  </tr>
-  <tr>
-    <td>🔄</td>
-    <td>Total PRs:</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>🔄</td>
-    <td>Total PRs Merged:</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>📊</td>
-    <td>Merged PRs Percentage:</td>
-    <td>0 %</td>
-  </tr>
-  <tr>
-    <td>👀</td>
-    <td>Total PRs Reviewed:</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>🕒</td>
-    <td>Total Issues:</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>📝</td>
-    <td>Contributed to (last year):</td>
-    <td>0</td>
-  </tr>
-</table>
+</div>
+
+## 📌 Pinned
+
+<div>
+  <a href="https://github.com/cgchiraggupta/repo1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgchiraggupta&repo=repo1&theme=dark" />
+  </a>
+  <a href="https://github.com/cgchiraggupta/repo2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cgchiraggupta&repo=repo2&theme=dark" />
+  </a>
+</div>
