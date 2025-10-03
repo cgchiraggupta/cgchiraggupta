@@ -4,4 +4,3 @@ send an email:cg077593@gmail.com ,[DM me on Twitter](https://x.com/PPlatypussss)
 
 
 
-![Perry the Platypusses' GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cgchiraggupta&theme=github-compact)
